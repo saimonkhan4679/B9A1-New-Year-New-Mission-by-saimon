@@ -1,0 +1,249 @@
+/* primary css */
+.primary-width{
+
+    width: 900px;
+    margin: auto;
+}
+
+
+
+section.first-section {
+    width: 900px;
+    height: 400px;
+
+    background-image: url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    display: flex;
+}
+
+.first-beanar {
+    margin: auto;
+    text-align: center;
+}
+
+.first-beanar-overle{
+
+    margin: auto;
+
+}
+.first-beanar h3{
+
+    color: #FFF;
+
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.first-beanar h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 500px;
+    margin-top: -36px;
+}
+
+/* 2n section */
+
+section.\32 n-section.primary-width {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 80px auto;
+}
+
+section.\32 n-section.primary-width h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #F00;
+    margin-bottom: 0px;;
+    text-align: center;
+}
+
+
+
+    section.\32 n-section.primary-width p {
+        font-size: 15px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    section.\32 n-section.primary-width h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    section.\32 n-section.primary-width img{
+              
+        width: 500px;
+
+    }
+
+    /* 3d section */ 
+    section.\33 d-section{
+
+        width: 900px;
+        height: 400px;
+    
+        background-image: url("/images/Vectorrr.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+        margin-bottom: 90px;
+        display: flex;
+        align-items: center;
+    }
+
+    .\33 d-beanar-overle {
+        width: 550px;
+        margin-left: 90px;
+        color: white;
+    }
+
+    .\33 d-beanar-overle h1 {
+        font-size: 46px;
+        width: 402px;
+        font-family: Merriweather;
+    }
+
+    .\33 d-beanar-overle a {
+        color: white;
+        text-decoration: none;
+        font-weight: 800;
+        font-size: 19px;
+        display: block;
+        margin-top: 36px;
+        margin-left: 30px;
+        font-family: Inter;
+    }
+    section.\34 th-section.primary-width {
+        text-align: center;
+        background: linear-gradient(358deg, white, #ffe7e7);
+        padding: 100px 0px;
+        font-family: 'Inter';
+        margin-bottom: 100px;
+        margin: auto;
+    }
+
+    section.\34 th-section.primary-width button {
+        margin-top: 20px;
+        padding: 10px 33px;
+        font-weight: 600;
+        color: #fff;
+        background: #e11212;
+        border: none;
+        border-radius: 5px;
+    }
+
+    section.\34 th-section.primary-width samp {
+        font-size: 25px;
+        color: #ff0000b8;
+    }
+
+    /* 5 section */
+
+    .\35 -section-text h3 {
+        color: red;
+        font-size: 17px;
+        font-family: 'Inter';
+    }
+
+    .\35 -section-text h1 {
+        font-size: 30px;
+        font-family: Merriweather;
+        margin: 0px;
+}
+    .\35 -section-text p {
+        width: 600px;
+        font-family: 'Inter';
+        color: #2b2927;
+  
+    }
+
+    .\35 -section-image {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 100px;
+    }
+
+    .\35 -section-image img {
+        width: 280px;
+        margin: 7px;
+    }
+
+    /* Email section */
+
+    section.from-section.primary-width {
+        text-align: center;
+        background: #fff2f2;
+        padding: 50px 0;
+        margin-bottom: 50px;
+    }
+
+    section.from-section.primary-width img {
+        width: 80px;
+    }
+
+    section.from-section.primary-width h1 {
+        font-size: 30px;
+        font-family: Merriweather;
+        margin: 0;
+    }
+
+    section.from-section.primary-width p {
+        width: 500px;
+        margin: 20px auto;
+    }
+
+    .subscribe input[type="email"] {
+        border: none;
+        border-radius: 10px 0px 0px 10px;
+        font-size: 15px;
+        padding: 15px 50px 15px 20px;
+    }
+
+    .subscribe button.email-botton {
+        padding: 15px 25px;
+        border: none;
+        background: #fd0b0bcf;
+        color: white;
+        border-radius: 0 10px 10px 0px;
+    }
+
+    /* fotter section */
+
+    section.fotter-section {
+        background: black;
+        color: white;
+        font-size: 12px;
+        font-family: 'Inter';
+        padding: 100px 0px;
+    }
+
+    .fotter-info.primary-width {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .fotter-section-image.primary-width {
+        text-align: center;
+    }
+
+
+
+
+    .fotter-section-image.primary-width img {
+        padding: 20px 5px;
+        width: 40px;
+    }
